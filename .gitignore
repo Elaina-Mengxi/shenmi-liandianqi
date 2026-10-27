@@ -1,0 +1,16 @@
+/out/
+/tools/
+/release/
+*.apk
+*.idsig
+*.keystore
+*.jks
+*.p12
+*.pem
+*.key
+*.log
+local.properties
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

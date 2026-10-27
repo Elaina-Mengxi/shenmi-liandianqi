@@ -1,0 +1,1 @@
+<resources><string name="service_description">按选定的两个位置循环点击：按住30毫秒，暂停后等待200毫秒，继续后等待2000毫秒。不会读取屏幕内容或联网。通过悬浮控制条启动、停止。</string></resources>
